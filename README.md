@@ -4,4 +4,4 @@
 ### [Автовыдача сгенерированных ключей от внутренних игр Hamster Kombat](https://github.com/mako042/MyPet/blob/main/hamster/hamster.md)
 
 Используемые в проектах технологии:
-*Golang, Python, C#, ASP.Net Core, Entity Framework Core*
+*Golang, Python, C#, Bash, Expect, ASP.Net Core, Entity Framework Core*
