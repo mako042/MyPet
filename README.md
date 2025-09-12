@@ -5,4 +5,4 @@
 ### [Вход по telnet/ssh без логина и пароля](https://github.com/mako042/MyPet/blob/main/qq/qq.md)
 ### [Автовыдача сгенерированных ключей от внутренних игр Hamster Kombat](https://github.com/mako042/MyPet/blob/main/hamster/hamster.md)
 Используемые в проектах технологии:
-*Golang, Python, C#, Bash, ASP.Net Core, Entity Framework Core*
+*Golang, Python, C#, Bash, Docker, Git, ASP.Net Core, Entity Framework Core*
